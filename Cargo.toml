@@ -1,8 +1,10 @@
 [package]
 name = "guess_paraboloid"
 version = "0.1.0"
-authors = ["rwinkler"]
+authors = ["paraboloid <paraboloid@protonmail.com"]
 edition = "2018"
+description = "A fun game where you guess what number the computer has chosen."
+license = "MIT OR Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
